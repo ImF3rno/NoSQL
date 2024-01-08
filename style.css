@@ -1,0 +1,13 @@
+html{
+    background-color:#34c9eb;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+    background-color: lightsalmon;
+}
+
+h2{
+    color: #FF6F61;
+}
